@@ -1,2 +1,1 @@
 # Aquitectura-de-Computadoras
-Logisim
